@@ -13,7 +13,7 @@ const stickerKeys = [
     'L1', 'L2', 'L3', 'L4', 'L5', 'L6', 'L7', 'L8', 'L9',
     'B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7', 'B8', 'B9'
 ];
-const angles = ["FR", "FL", "BL", "BR"]
+const angles = ["FR", "BR", "BR", "FL"]
 
 let corners = [
     [8, 9, 20], [6, 18, 38], [15, 26, 29], [24, 27, 44],
